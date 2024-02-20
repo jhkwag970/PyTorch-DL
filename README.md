@@ -1,7 +1,5 @@
 # PyTorch-DL
 
-<hr>
-
 Study note for PyTorch-DL: Under Construction
 
 ## Chapters
